@@ -1,0 +1,37 @@
+#calcForm {
+    padding: 15px 30px;
+    border: 1px solid black;
+    display: inline-block;
+}
+
+.title {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    margin-right: 20px;
+}
+
+.form-group .errorMsg1 {
+    display: block;
+    margin: 10px 0 0 110px;
+    color: red;
+    font-size: 10px;
+}
+
+.form-group .errorMsg2 {
+    display: block;
+    color: red;
+    font-size: 10px;
+    margin: 10px 0 0 130px;
+}
+
+.total {
+    padding-right: 55px;
+}
